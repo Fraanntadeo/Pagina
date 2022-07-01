@@ -70,7 +70,8 @@ hr {
   font-size: 15px;
   border: 1px solid #fff; }
   .btn:hover {
-    opacity: 0.9; }
+    opacity: 0.9;
+    color: #434343; }
 
 .showcase {
   width: 100%;
@@ -83,10 +84,11 @@ hr {
   justify-content: flex-end;
   padding-bottom: 50px;
   margin-bottom: 20px;
-  color: black; }
+  color: white;
+  opacity: 0.70; }
   .showcase p {
-    margin: 30px;
-    padding: 70px; }
+    margin: 5px;
+    padding: 40px; }
 
 .Satelite {
   margin: 10px;
@@ -126,8 +128,7 @@ hr {
   width: auto;
   height: 350px;
   background: url("/img/tech-red.jpg") no-repeat center;
-  margin-bottom: 40px;
-  margin-left: 40px; }
+  margin-bottom: 40px; }
   .cards-banner-one .content {
     width: 50%;
     padding: 100px 0 0 30px;
@@ -139,8 +140,7 @@ hr {
 .cards-banner-two {
   width: auto;
   height: 350px;
-  background: url("../img/image-five.jpg") no-repeat center;
-  margin-left: 40px; }
+  background: url("../img/image-five.jpg") no-repeat center; }
   .cards-banner-two p {
     margin: 10px 0 20px 0; }
   .cards-banner-two .content {
