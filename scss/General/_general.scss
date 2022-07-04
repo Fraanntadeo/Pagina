@@ -314,6 +314,9 @@ hr {
   .news-cards {
     grid-template-columns: repeat(2, 1fr);
   }
+  .Satelite {
+    grid-template-columns: repeat(1, 1fr);
+  }
 
   .cards-banner-one .content, .cards-banner-two .content {
     width: 80%;
