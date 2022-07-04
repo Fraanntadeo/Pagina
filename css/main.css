@@ -249,11 +249,6 @@ hr {
   .logo span {
     color: #B70E21; }
 
-.contact-wrapper {
-  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.3); }
-  .contact-wrapper > * {
-    padding: 1em; }
-
 .contact-form {
   background: #222222; }
   .contact-form form {
